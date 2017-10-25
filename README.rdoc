@@ -1,3 +1,0 @@
-== README
-
-This repository has been created for NextAcademy students. Fork and clone to complete this challenge.
