@@ -154,3 +154,41 @@ body {
     }
   }
 }
+
+@media screen and (min-width: 480px) {
+
+  .hero-header {
+    text-align: center;
+    height: 500px;
+    padding-top: 10%;
+    text-transform: uppercase;
+    color: #fff;
+    .main-text {
+      letter-spacing: 6px;
+      font-size: 50px;
+      margin-bottom: 20px;
+    }
+    .sub-text {
+      font-size: 30px;
+      letter-spacing: 4px;
+      font-weight: lighter;
+    }
+  }
+
+}
+
+@media screen and (max-width: 400px) {
+  .para-one {
+    width: 100%;
+    float: left;
+  }
+
+  .para-two {
+    width: 100%;
+    float: left;
+  }
+
+  .hide {
+    display: none;
+  }
+}
